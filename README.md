@@ -22,11 +22,11 @@ Bringing in External Media:
 Hyperlink videos, news articles, blogs, other class material/readings, etc. that relate to topics covered in this course that strengthens your understanding of the material. 
 
 
-[September 7](https://github.com/lauraccunningham/reflections/blob/master/2013-09-07.md)
-[September 14](https://github.com/lauraccunningham/reflections/blob/master/2013-09-14.md)
-[September 21](https://github.com/lauraccunningham/reflections/blob/master/2013-09-21.md)
-[September 28](https://github.com/lauraccunningham/reflections/blob/master/2013-09-28.md)
-[October 05](https://github.com/lauraccunningham/reflections/blob/master/2013-10-05.md)
-[October 12](https://github.com/lauraccunningham/reflections/blob/master/2013-10-12.md)
-[October 19](https://github.com/lauraccunningham/reflections/blob/master/2013-10-19.md)
-[October 26](https://github.com/lauraccunningham/scaling-dangerzone/blob/master/privateReflection_2013-10-26.md)
+  - [September 7](https://github.com/lauraccunningham/reflections/blob/master/2013-09-07.md)
+  - [September 14](https://github.com/lauraccunningham/reflections/blob/master/2013-09-14.md)
+  - [September 21](https://github.com/lauraccunningham/reflections/blob/master/2013-09-21.md)
+  - [September 28](https://github.com/lauraccunningham/reflections/blob/master/2013-09-28.md)
+  - [October 05](https://github.com/lauraccunningham/reflections/blob/master/2013-10-05.md)
+  - [October 12](https://github.com/lauraccunningham/reflections/blob/master/2013-10-12.md)
+  - [October 19](https://github.com/lauraccunningham/reflections/blob/master/2013-10-19.md)
+  - [October 26](https://github.com/lauraccunningham/scaling-dangerzone/blob/master/privateReflection_2013-10-26.md)
