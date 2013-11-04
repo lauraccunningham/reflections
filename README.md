@@ -28,7 +28,7 @@ Fall 2013
   - [October 05](https://github.com/lauraccunningham/reflections/blob/master/2013-10-05.md)
   - [October 12](https://github.com/lauraccunningham/reflections/blob/master/2013-10-12.md)
   - [October 19](https://github.com/lauraccunningham/reflections/blob/master/2013-10-19.md)
-  - [October 26](https:.github.com/lauraccunningham/reflections/blob/master/2013-10-26.md) & [private repository](https://github.com/lauraccunningham/scaling-dangerzone/blob/master/privateReflection_2013-10-26.md)
+  - [October 26](https://github.com/lauraccunningham/reflections/blob/master/2013-10-26.md) & [private repository](https://github.com/lauraccunningham/scaling-dangerzone/blob/master/privateReflection_2013-10-26.md)
 
 **November**
   - [November 02](https://github.com/lauraccunningham/reflections/blob/master/2013-11-02.md)
